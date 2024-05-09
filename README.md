@@ -31,3 +31,7 @@ Clone the repository:
 
 ## License  
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Note:  
+Unable to provide similarity.pkl as it is more than 600mb  
+To create the similarity dataset run the ipynb file
